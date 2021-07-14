@@ -6,9 +6,9 @@ If someone is a subscriber of your website, he will be able to edit your blog po
 # Screenshots
 
 1. Your blog post and editing form below it.
-![plugin settings](https://github.com/poplir/wikipedia-styled-editing/blob/main/assets/screenshot-1.png)
+![plugin settings](https://github.com/poplir/wikipedia-styled-editing/blob/main/assets/screenshot-1.jpg)
 2. Changes saved to the content.
-![save](https://github.com/poplir/wikipedia-styled-editing/blob/main/assets/screenshot-2.png)
+![save](https://github.com/poplir/wikipedia-styled-editing/blob/main/assets/screenshot-2.jpg)
 
 # Installation
 
